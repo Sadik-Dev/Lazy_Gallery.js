@@ -2,6 +2,33 @@ let numberOfSliders = 6;
 
 let counters = Array.apply(null, Array(numberOfSliders)).map(Number.prototype.valueOf, 0);
 
+/*
+//If you hardcode the paths use next var structure and delete the parameter in Lazy() function
+let images = [
+    "/img/img1.jpg"
+    ,"/img/img2.jpg"
+    ,"/img/img3.jpg"
+    ,"/img/img4.jpg"]
+
+//if you are using multiple slideshows
+
+let images = [
+  // Slideshow 1 paths
+
+    [ "/img/img1.jpg"
+    ,"/img/img2.jpg"
+    ,"/img/img3.jpg"
+    ,"/img/img4.jpg"],
+
+  // Slideshow 2 paths
+
+    ["/img/img8.jpg"
+    ,"/img/img9.jpg"
+    ,"/img/img10.jpg"
+    ,"/img/img11.jpg"]
+    ]
+
+    */
 
 async function Lazy(images) {
     let promise = new Promise(function () {
