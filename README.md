@@ -74,12 +74,12 @@ You can also:
  [lazy_gallery.css](https://github.com/Sadik-Dev/Lazy_Gallery.js/blob/main/css/lazy_gallery.css) 
 
 #### JS part
- * Chose how much slideshows you will use by changing the next variable in lazy_gallery.js
+ *  ##### Chose how much slideshows you will use by changing the next variable in lazy_gallery.js
   ```javascript
   let numberOfSliders = ?;
 ```
 
-#### Give the image paths to the Lazy() function
+* ##### Give the image paths to the Lazy() function
 
 1. First option is to hardcode the paths like this, do it in the lazy_gallery.js file
 
