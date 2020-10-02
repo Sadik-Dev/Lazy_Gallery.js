@@ -35,7 +35,7 @@ You can also:
 **In my example I call it in my view where i also give the array with the paths of my images**
 
 **If you want to hardcode the paths of the images**
-[Go to the js Part](####JS-part)
+[Go to the js Part](#JS-part)
 
 
 
