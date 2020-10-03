@@ -4,7 +4,7 @@ Lazy Gallery is a small js framework designed to quickly create one or more lazy
 
 Also with sample .net code to fetch all image paths automaticaly from a specific folder and send it to the script
 
-![](https://j.gifs.com/E8j7z4.gif)
+![](gif.gif)
 
 #  Features!
 
