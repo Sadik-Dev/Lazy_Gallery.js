@@ -146,7 +146,6 @@ function SlideShow(slideshow, i) {
                     clearInterval(interval);
                     slide.src = img.src;
                     counters[i] = index;
-                    console.log(counters[i]);
 
                 }
 
