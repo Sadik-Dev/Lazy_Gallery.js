@@ -2,7 +2,7 @@
 
 Lazy Gallery is a small js framework designed to quickly create one or more lazy loading slideshows
 
-Also with sample .net code to fetch all image paths from a specific folder and send it to the lazy method
+Also with sample .net code to fetch all image paths automaticaly from a specific folder and send it to the script
 
 #  Features!
 
@@ -114,7 +114,7 @@ let images = [
 2. Second option is to give the paths from your back-end server
     // Example in .Net
     
-    1. Make for each slidershow a folder in your images folder and fill it with your images
+    1. Make for each slideshow a folder in your images folder and fill it with your images
     2. Get all images from your folders and send it to your view 
     
     Example of the method I use
