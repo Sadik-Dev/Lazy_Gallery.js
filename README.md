@@ -24,7 +24,7 @@ You can also:
 ### Installation
 
 
-* Download [lazy_gallery.js](https://github.com/Sadik-Dev/Lazy_Gallery.js/blob/main/lazy_gallery.js) to the js folder of your project
+* Download [lazy_gallery.js](https://github.com/Sadik-Dev/Lazy_Gallery.js/blob/main/js/lazy_gallery.js) to the js folder of your project
 * Add following scripts just before closing body tag
 
   ```html
