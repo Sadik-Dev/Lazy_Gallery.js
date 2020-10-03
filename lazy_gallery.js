@@ -69,6 +69,7 @@ let images = [
         }  
 
 }
+
 function SlideShow(slideshow, i) {
     let cache = imageCache[i]
         let images = slideshow.lastElementChild.firstElementChild.children;
@@ -160,4 +161,3 @@ function SlideShow(slideshow, i) {
     
 
 }
-
