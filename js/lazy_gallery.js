@@ -129,6 +129,8 @@ let images = [
                images[y].onclick = function () {
                    clearInterval(interval);
                    slide.src = images[y].src;
+                   counters[i] = y;
+
                }
             }
    
